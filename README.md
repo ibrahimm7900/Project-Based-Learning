@@ -35,8 +35,7 @@ open index.html
 ```
 
 
-<img src="https://giphy.com/embed/4axvDTTsBbSnlj0l3O" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/4axvDTTsBbSnlj0l3O">via GIPHY</a></p>
-
+![Sign-In Form GIF](https://media.giphy.com/media/4axvDTTsBbSnlj0l3O/giphy.gif)
 
 
 
