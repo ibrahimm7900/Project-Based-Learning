@@ -35,7 +35,7 @@ open index.html
 ```
 
 
-<iframe src="https://giphy.com/embed/4axvDTTsBbSnlj0l3O" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/4axvDTTsBbSnlj0l3O">via GIPHY</a></p>
+<img src="https://giphy.com/embed/4axvDTTsBbSnlj0l3O" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/4axvDTTsBbSnlj0l3O">via GIPHY</a></p>
 
 
 
